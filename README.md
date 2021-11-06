@@ -10,6 +10,12 @@ The purpose of this project was to create a dashboard that research volunteers c
 
 ## Technology Used
 
+- VS Code: You will use a text editor to create and edit HTML and JavaScript files.
+- Web browser: You will use a web browser, such as Chrome, to view, inspect, and debug your visualizations. We will use Chrome in our examples.
+- Command-line interface: You will use the command-line interface to run a local server. If you're a Mac user, this means Terminal. If you're a Windows user, you'll be using Git Bash.
+- GitHub: As you will deploy your final data visualization on GitHub Pages, you will need your GitHub account.
+
+
 - Plotly.js, a JavaScript data visualization library, was used to create an interactive data visualization for the web. Plotly was used to create basic plots that included bar charts, line charts, and pie charts.
 - D3.json() was used to fetch external data, such as CSV files and web APIs.
 - Data was parsed in JSON format.
