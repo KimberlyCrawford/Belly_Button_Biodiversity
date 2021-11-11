@@ -27,7 +27,7 @@ Below is the dashboard created before challenge deliverables:
 
 The following horizontal bar chart displays the top 10 bacterial species (OTUs) when an individual’s ID is selected from the dropdown menu on the webpage. The chart displays the sample_values as the values, the otu_ids as the labels, and the otu_labels as the hover text for the bars on the chart.
 
-![filename.png](https://github.com/KimberlyCrawford/Belly_Button_Biodiversity/blob/main/filename.png)
+- Insert Image Here
 
 #### Deliverable 2: Create a Bubble Chart 
 
@@ -39,17 +39,17 @@ The following bubble chart displays the following when an individual’s ID is s
 - The otu_ids as the marker colors.
 - The otu_labels as the hover-text values.
 
-![filename.png](https://github.com/KimberlyCrawford/Belly_Button_Biodiversity/blob/main/filename.png)
+- Insert Image Here
 
 #### Deliverable 3: Create a Gauge Chart
 
 The following gauge chart displays the weekly washing frequency's value, and displays the value as a measure from 0-10 on the progress bar in the gauge chart when an individual ID is selected from the dropdown menu.
 
-![filename.png](https://github.com/KimberlyCrawford/Belly_Button_Biodiversity/blob/main/filename.png)
+- Insert Image Here
 
 #### Deliverable 4: Customize the Dashboard
 
 The following dashboard was created using HTML code and a Bootstrap 3.3.7 stylesheet (<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">) to customize the webpage.
 
-![filename.png](https://github.com/KimberlyCrawford/Belly_Button_Biodiversity/blob/main/filename.png)
+- Insert Image Here
 
