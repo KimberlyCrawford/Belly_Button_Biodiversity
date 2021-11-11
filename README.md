@@ -19,7 +19,7 @@ The purpose of this project was to create a dashboard that research volunteers c
 
 Below is the dashboard created before challenge deliverables:
 
-![Dashboard_original.png](https://github.com/KimberlyCrawford/Belly_Button_Biodiversity/blob/main/Images/Dashboard_original.png)
+![Dashboard_original.png](https://github.com/KimberlyCrawford/Belly_Button_Biodiversity/blob/main/images/Dashboard_original.png)
 
 ## Challenge Deliverables
 
