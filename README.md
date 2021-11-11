@@ -2,7 +2,7 @@
 
 ## Overview
 
-An interactive data visualization for the web. 
+An interactive dashboard to explore the Belly Button Biodiversity dataset.
 
 ### Purpose
 
@@ -16,6 +16,10 @@ The purpose of this project was to create a dashboard that research volunteers c
 - JavaScript functional programming was used to manipulate data.
 - JavaScript's Math library was used to manipulate numbers.
 - JavaScript's event handlers were used to add interactivity to a data visualization.
+
+Below is the dashboard created before challenge deliverables:
+
+![Dashboard_original.png](https://github.com/KimberlyCrawford/Belly_Button_Biodiversity/blob/main/Images/Dashboard_original.png)
 
 ## Challenge Deliverables
 
@@ -45,7 +49,7 @@ The following gauge chart displays the weekly washing frequency's value, and dis
 
 #### Deliverable 4: Customize the Dashboard
 
-The following dashboard was created using HTML and Bootstrap to customize the webpage.
+The following dashboard was created using HTML code and a Bootstrap 3.3.7 stylesheet (<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">) to customize the webpage.
 
 ![filename.png](https://github.com/KimberlyCrawford/Belly_Button_Biodiversity/blob/main/filename.png)
 
